@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "303744005388",
+    "firebase_url": "https://testlab-a4a15.firebaseio.com",
+    "project_id": "testlab-a4a15",
+    "storage_bucket": "testlab-a4a15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303744005388:android:846b6544472ba4ac804529",
+        "android_client_info": {
+          "package_name": "com.rcg.world.war.battleground.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303744005388-iujauvjc55g48flf5dvp11gijkiki679.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VRTRqgOZzNGiMyGyyfm5B6QHDj9I4bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303744005388-iujauvjc55g48flf5dvp11gijkiki679.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303744005388:android:cfe426a55638ca34804529",
+        "android_client_info": {
+          "package_name": "com.rexetstudio.blockstrike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303744005388-iujauvjc55g48flf5dvp11gijkiki679.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VRTRqgOZzNGiMyGyyfm5B6QHDj9I4bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303744005388-iujauvjc55g48flf5dvp11gijkiki679.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303744005388:android:2599bde7a0086f03804529",
+        "android_client_info": {
+          "package_name": "com.variablr.zumbadeluxe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303744005388-iujauvjc55g48flf5dvp11gijkiki679.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VRTRqgOZzNGiMyGyyfm5B6QHDj9I4bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303744005388-iujauvjc55g48flf5dvp11gijkiki679.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303744005388:android:6e002e1bbe888740804529",
+        "android_client_info": {
+          "package_name": "com.vivaplay.worldwar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303744005388-iujauvjc55g48flf5dvp11gijkiki679.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VRTRqgOZzNGiMyGyyfm5B6QHDj9I4bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303744005388-iujauvjc55g48flf5dvp11gijkiki679.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
